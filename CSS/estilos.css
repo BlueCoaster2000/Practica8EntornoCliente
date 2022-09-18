@@ -1,4 +1,9 @@
 h1{
 font-family: sans-serif;
 text-decoration: underline black;
+text-align: center;
+}
+p{
+
+   color: lightgray; 
 }
